@@ -4,7 +4,7 @@ My name is Artem! I`m fullstack developer from ![](https://raw.githubusercontent
 
 ## Technologies and tools
 
-- .net core
+- .net
 - C#
 - WEB (HTML, CSS, JS)
 - VueJS
